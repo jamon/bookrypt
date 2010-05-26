@@ -1,0 +1,5 @@
+initial release, seems to work...
+
+needs UI prettying :)
+
+could use removal of foreign encryption library dependency too, but not sure that's feasible.
